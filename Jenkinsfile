@@ -1,7 +1,7 @@
 
 pipeline{
  agent {
-        label 'DojoJenkinsXXX'
+        label 'DojoCCMM'
        }
  stages{
        stage('Checkout-git'){
